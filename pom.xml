@@ -11,6 +11,7 @@
 
     <modules>
         <module>someProgs</module>
+        <module>projects_spring_mvc</module>
     </modules>
 
     <properties>
